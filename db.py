@@ -9,6 +9,3 @@ def get_url_from_query(slug):
     query_ref = links.where(u'slug', u'==', slug).get()
     for item in query_ref:
         return item._data['url']
-
-a = get_url_from_query('chickens')
-print(a)
