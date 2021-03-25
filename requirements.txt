@@ -38,7 +38,7 @@ pyparsing==2.2.0
 pytest==3.2.3
 python-distutils-extra==2.39
 python-xapp==1.0.0
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 rsa==3.4.2
 setproctitle==1.1.10
