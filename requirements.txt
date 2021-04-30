@@ -40,7 +40,7 @@ python-distutils-extra==2.39
 python-xapp==1.0.0
 PyYAML==3.12
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7
 setproctitle==1.1.10
 six==1.11.0
 team==1.0
