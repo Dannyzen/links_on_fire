@@ -24,7 +24,7 @@ packaging==16.8
 pacman-mirrors==4.2.3
 pexpect==4.2.1
 ply==3.8
-protobuf==3.4.0
+protobuf==3.18.3
 psutil==5.3.1
 ptyprocess==0.5.2
 py==1.4.34
